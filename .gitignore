@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.idea
+network_traffic_data.csv
+deploy/net_traffic_model.joblibdump
+**/.DS_Store
